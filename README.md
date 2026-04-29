@@ -1,3 +1,3 @@
 # apnacollege-demo
 
-Author - Rajan Kumar
+Author - Rajan Kumar (Apna College)
